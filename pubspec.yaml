@@ -37,7 +37,7 @@ dependencies:
   # A Flutter plugin that allows you to add an inline webview, to use an headless webview,
   # and to open an in-app browser window.
   # https://pub.dev/packages/flutter_inappwebview
-  flutter_inappwebview: ^6.1.5
+  talkjs_flutter_inappwebview: ^6.0.8
 
 dev_dependencies:
   flutter_test:
