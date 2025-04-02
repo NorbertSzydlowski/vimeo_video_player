@@ -1,7 +1,7 @@
 import 'dart:developer' as dev;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_inappwebview/flutter_inappwebview.dart';
+import 'package:talkjs_flutter_inappwebview/talkjs_flutter_inappwebview.dart';
 
 /// Vimeo video player with customizable controls and event callbacks using the InAppWebView
 class VimeoVideoPlayer extends StatelessWidget {
